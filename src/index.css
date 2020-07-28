@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+ul.countriesList {
+  background-color: #f1f1f1;
+  list-style-type: none;
+  padding: 10px 20px;
+}
+
+ol.fruitList {
+  border-left: 5px solid blue;
+  background-color: #f1f1f1;
+  /* list-style-type: none; */
+  padding: 10px 20px;
+}
+
+.spotlight {
+  color:#00008b;
+  font-weight:bold;
+  font-style: italic;
+  font-size: 1.1em;
+  text-align: center;
+  font-family: 'Lato', Arial, Verdana, sans-serif;
+}
+
+/* Headers */
+.myheading {
+  color:#00008b;
+  font-weight:bold;
+  text-align: center;
+}
+.myheading2 {
+  color:#008b00;
+  font-weight:bold;
+  text-transform: uppercase;
+}
+.myheading3 {
+  color:#00008b;
+  font-weight:bold;
+  text-align: center;
+  text-transform: uppercase;
+}
+.myheading4 {
+  color:#00008b;
+  font-weight:bold;
+  font-size: 1.1em;
+  text-align: center;
+  font-family: 'Lato', Arial, Verdana, sans-serif;
+}
+
+/* Footer */
+.footer {
+  background-color: #ffffe0; /* light yellow */
+  background-image: url("./images/background.jpg");
+}
+.footerTitle {
+  color:#00008b;
+  font-weight:bold;
+  font-family: "Mukta Malar", Helvetica, sans-serif;
+  font-size: 1.875em;
+}
+
+/* Misc */
+.primetext {
+  color:#008b00;
+}
+
+/* remove link underlines  */
+.link_no_underline:link {
+  text-decoration: none;
+}
+.link_no_underline:visited {
+  text-decoration: none;
+}
+.link_no_underline:hover {
+  text-decoration: none;
+}

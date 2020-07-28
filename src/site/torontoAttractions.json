@@ -1,0 +1,202 @@
+{
+	"attractions": [
+		{
+			"id": "1",
+			"attraction": "CN Tower",
+			"location": "290 Bremner Blvd, Toronto, ON M5V 3L9",
+			"latitude": "43.6425701",
+			"longitude": "-79.3892455",
+			"website": "https://www.cntower.ca/",
+			"wiki": "https://en.wikipedia.org/wiki/CN_Tower",
+			"photo": "cntower.jpg",
+			"synopsis": "An iconic part of the Toronto skyline, this 553.3 m-high (1,815.3 ft) concrete communications and observation tower is now the ninth tallest free-standing structure in the world and remains the tallest free-standing structure on land in the Western Hemisphere. In 1995, the CN Tower was declared one of the modern Seven Wonders of the World by the American Society of Civil Engineers. The CN Tower held the record for the world's tallest free-standing structure for 32 years until 2007, and is a member of the World Federation of Great Towers."
+		},
+		{
+			"id": "2",
+			"attraction": "Ripley's Aquarium",
+			"location": "288 Bremner Blvd, Toronto, ON M5V 3L9",
+			"latitude": "43.6424075",
+			"longitude": "-79.3881603",
+			"website": "https://www.ripleyaquariums.com/canada/",
+			"wiki": "https://en.wikipedia.org/wiki/Ripley%27s_Aquarium_of_Canada",
+			"photo": "ripleys.jpg",
+			"synopsis": "Ripley's Aquarium holds 5.7 million litres (1.5 million gallons) of water and shows marine and freshwater habitats from around the world. The aquarium is organized into ten galleries: Canadian Waters, Rainbow Reef, Dangerous Lagoon, Discovery Centre, The Gallery, Ray Bay, Swarm: Nature by Numbers, Planet Jellies, Life Support Systems and the Shoreline Gallery. It is home to more than 20,000 animals."
+		},
+		{
+			"id": "3",
+			"attraction": "City Hall",
+			"location": "100 Queen St W, Toronto, ON M5H 2N2",
+			"latitude": "43.6534438",
+			"longitude": "-79.3862788",
+			"website": "https://www.toronto.ca/",
+			"wiki": "https://en.wikipedia.org/wiki/Toronto_City_Hall",
+			"photo": "cityhall.jpg",
+			"synopsis": "The Toronto City Hall, or New City Hall, is the seat of the municipal government of Toronto, Ontario, Canada, and one of the city's most distinctive landmarks. City Hall's forecourt, Nathan Phillips Square, is one of the main hosts of different festivals and events in Toronto."
+		},
+		{
+			"id": "4",
+			"attraction": "Yonge-Dundas Square",
+			"location": "1 Dundas St E, Toronto, ON M5B 2R8",
+			"latitude": "43.656085",
+			"longitude": "-79.3823601",
+			"website": "https://www.ydsquare.ca/",
+			"wiki": "https://en.wikipedia.org/wiki/Yonge%E2%80%93Dundas_Square",
+			"photo": "yongedundas.jpg",
+			"synopsis": "Yonge–Dundas Square is a public square at the southeast corner of the intersection of Yonge Street and Dundas Street East in the city's downtown core of Toronto. Since its completion in 2002, the square has hosted many public events, performances and art displays, establishing itself as a prominent landmark in Toronto and one of the city's prime tourist attractions. Central to the Downtown Yonge entertainment and shopping district, the square is owned by the city and is the first public square in Canada to be maintained through a public-private partnership."
+		},
+		{
+			"id": "5",
+			"attraction": "The Toronto Islands",
+			"location": "9 Queens Quay W, Toronto, ON M5J 2H3",
+			"latitude": "43.6230391",
+			"longitude": "-79.3859411",
+			"website": "https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/toronto-island-park/",
+			"wiki": "https://en.wikipedia.org/wiki/Toronto_Islands",
+			"photo": "torontoislands.jpg",
+			"synopsis": "The Toronto Islands are a chain of 15 small islands in Lake Ontario, south of mainland Toronto, Ontario, Canada. Comprising the only group of islands in the western part of Lake Ontario, the Toronto Islands are located just offshore from the city's downtown, provide shelter for Toronto Harbour, and is a popular recreation destination. The islands are home to parkland, the Billy Bishop Toronto City Airport, several yacht clubs, Centreville Amusement Park, a residential area, and several beaches. The island community is considered to be the largest urban car-free community in North America, although some service vehicles are permitted. Access to the Islands is by ferry."
+		},
+		{
+			"id": "6",
+			"attraction": "Toronto Zoo",
+			"location": "2000 Meadowvale Rd, Toronto, ON M1B 5K7",
+			"latitude": "43.8177028",
+			"longitude": "-79.1880791",
+			"website": "http://www.torontozoo.com/",
+			"wiki": "https://en.wikipedia.org/wiki/Toronto_Zoo",
+			"photo": "torontozoo.jpg",
+			"synopsis": " The Toronto Zoo is the largest zoo in Canada.It is divided into seven zoogeographic regions: Indo-Malaya, Africa, Americas, Tundra Trek, Australasia, Eurasia, and the Canadian Domain. Some animals are displayed indoors in pavilions and outdoors in what would be their naturalistic environments, with viewing at many levels."
+		},
+		{
+			"id": "7",
+			"attraction": "Royal Ontario Museum",
+			"location": "100 Queens Park, Toronto, ON M5S 2C6",
+			"latitude": "43.6677136",
+			"longitude": "-79.3969658",
+			"website": "https://www.rom.on.ca/en",
+			"wiki": "https://en.wikipedia.org/wiki/Royal_Ontario_Museum",
+			"photo": "rom.jpg",
+			"synopsis": "A world class museum of art, world culture and natural history in Toronto, and the largest museum in Canada. With more than 6,000,000 items and 40 galleries, the museum's diverse collections of world culture and natural history contribute to its international reputation, and attracts more than one million visitors every year. The museum contains a collection of dinosaurs, minerals and meteorites; Canadian, and European historical artifacts; as well as African, Near Eastern, and East Asian art. It houses the world's largest collection of fossils from the Burgess Shale with more than 150,000 specimens."
+		},
+		{
+			"id": "8",
+			"attraction": "High Park",
+			"location": "1873 Bloor St W, Toronto, ON M6R 2Z3",
+			"latitude": "43.6465518",
+			"longitude": "-79.465879",
+			"website": "https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/high-park/",
+			"wiki": "https://en.wikipedia.org/wiki/High_Park",
+			"photo": "highpark.jpg",
+			"synopsis": "High Park is a mixed recreational and natural park, with sporting facilities, cultural facilities, educational facilities, gardens, playgrounds and a zoo. One-third of the park remains in a natural state, with a rare oak savannah ecology"
+		},
+		{
+			"id": "9",
+			"attraction": "Cherry Beach",
+			"location": "Near intersection of Unwin Ave & Regatta Road, Toronto On",
+			"latitude": "43.6364084",
+			"longitude": "-79.3451889",
+			"website": "https://www.toronto.ca/data/parks/prd/facilities/complex/209/index.html",
+			"wiki": "https://en.wikipedia.org/wiki/Cherry_Beach",
+			"photo": "cherrybeach.jpg",
+			"synopsis": "A lakeside beach park located at the foot of Cherry Street just south of Unwin Avenue in Toronto, Ontario, Canada. It is on Toronto's outer harbour just east of the Eastern Gap."
+		},
+		{
+			"id": "10",
+			"attraction": "Scarborough Bluffs",
+			"location": "Scarborough Bluffs Park, Scarborough, ON M1M 3W3",
+			"latitude": "43.7059398",
+			"longitude": "-79.2338609",
+			"website": "https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/scarborough-bluffs/",
+			"wiki": "https://en.wikipedia.org/wiki/Scarborough_Bluffs",
+			"photo": "scarboroughbluffs.jpg",
+			"synopsis": " An escarpment in the Scarborough district of Toronto, Ontario, Canada. There are nine parks along the bluffs, with Bluffers Park being the only one with a beach. Forming much of the eastern portion of Toronto's waterfront, the Scarborough Bluffs stands above the shoreline of Lake Ontario. At its highest point, the escarpment rises 90 metres (300 ft) above the coastline and spans a length of 15 kilometres (9.3 mi)."
+		},
+		{
+			"id": "11",
+			"attraction": "Ontario Science Centre",
+			"location": "770 Don Mills Rd, North York, ON M3C 1T3",
+			"latitude": "43.7164953",
+			"longitude": "-79.3412028",
+			"website": "https://www.ontariosciencecentre.ca/",
+			"wiki": "https://en.wikipedia.org/wiki/Ontario_Science_Centre",
+			"photo": "osc.jpg",
+			"synopsis": "The science centre has several hundred interactive and passive permanent exhibits, featuring geology, the science of nature (in the west wing), astronomical science, how to play music and technology in the south wing, human anatomy, communication and bias, and some miscellaneous artifacts of science.  It has also hosted a number of travelling exhibits since its opening."
+		},
+		{
+			"id": "12",
+			"attraction": "St Lawrence Market",
+			"location": "93 Front St E, Toronto, ON M5E 1C3",
+			"latitude": "43.6486718",
+			"longitude": "-79.3737156",
+			"website": "http://www.stlawrencemarket.com/",
+			"wiki": "https://en.wikipedia.org/wiki/St._Lawrence_Market",
+			"photo": "st_lawrence.jpg",
+			"synopsis": "St. Lawrence Market is a major public market in Toronto, Ontario, Canada. It is located along Front Street East and Jarvis Street in the St. Lawrence neighbourhood of downtown Toronto. The public market is made up of two sites adjacent to one another east of Jarvis Street, St. Lawrence Market North, and St. Lawrence Market South. St. Lawrence Market South is situated south of Front Street East, and is bounded by The Esplanade to the south. St. Lawrence Market North is situated north of Front Street East, and is bounded by St. Lawrence Hall to the north. "
+		},
+		{
+			"id": "13",
+			"attraction": "Hockey Hall of Fame",
+			"location": "30 Yonge St, Toronto, ON M5E 1X8",
+			"latitude": "43.6472722",
+			"longitude": "-79.3798789",
+			"website": "https://www.hhof.com/",
+			"wiki": "https://en.wikipedia.org/wiki/Hockey_Hall_of_Fame",
+			"photo": "hockey_hof.jpg",
+			"synopsis": "Dedicated to the history of ice hockey, it holds exhibits about players, teams, National Hockey League (NHL) records, memorabilia and NHL trophies, including the Stanley Cup. Founded in Kingston, Ontario, the Hockey Hall of Fame was established in 1943 under the leadership of James T. Sutherland.  The hall was relocated in 1993, and is now in Downtown Toronto, inside Brookfield Place, and a historic Bank of Montreal building. The Hockey Hall of Fame has hosted International Ice Hockey Federation (IIHF) exhibits and the IIHF Hall of Fame since 1998."
+		},
+		{
+			"id": "14",
+			"attraction": "Aga Khan Museum",
+			"location": "77 Wynford Dr, North York, ON M3C 1K1",
+			"latitude": "43.7251002",
+			"longitude": "-79.3344842",
+			"website": "http://www.agakhanmuseum.org/",
+			"wiki": "https://en.wikipedia.org/wiki/Aga_Khan_Museum",
+			"photo": "akm.jpg",
+			"synopsis": "A museum of Islamic art, Iranian (Persian) art and Muslim culture in the North York district of Toronto, Ontario, Canada. It is the first museum in the western world dedicated to Islamic art and objects, it houses more than 1,000 rare objects including artifacts from the private collections of His Highness the Aga Khan, the Institute of Ismaili Studies in London, and Prince and Princess Sadruddin Aga Khan. The Museum Collection and exhibitions are complemented by educational programs and performing arts events. "
+		},
+		{
+			"id": "15",
+			"attraction": "Bata Shoe Museum",
+			"location": "327 Bloor St W, Toronto, ON M5S 1W7",
+			"latitude": "43.6672667",
+			"longitude": "-79.4023693",
+			"website": "https://en.wikipedia.org/wiki/Bata_Shoe_Museum",
+			"wiki": "http://www.batashoemuseum.ca/",
+			"photo": "bata.jpg",
+			"synopsis": "The BSM is a museum of footwear and calceology in Toronto, Ontario, Canada. It's collection of footwear originated from the personal collections of Sonja Bata, started in the mid-1940s. The museum's permanent collection includes over 13,000 shoes, and other footwear related items dating back 4,500 years; providing the museum with the largest collection of footwear in the world. "
+		},
+		{
+			"id": "16",
+			"attraction": "The Distillery District",
+			"location": "Distillery Lane, Toronto, ON M5A 3C4",
+			"latitude": "43.650542",
+			"longitude": "-79.3606104",
+			"website": "http://www.thedistillerydistrict.com/",
+			"wiki": "https://en.wikipedia.org/wiki/Distillery_District",
+			"photo": "distillery.jpg",
+			"synopsis": "The Distillery District is a commercial and residential district in Toronto, Ontario, Canada. Located east of downtown, it contains numerous cafés, restaurants, and shops housed within heritage buildings of the former Gooderham and Worts Distillery. The 13 acres district comprises more than forty heritage buildings and ten streets, and is the largest collection of Victorian-era industrial architecture in North America.  The district was designated a National Historic Site of Canada in 1988."
+		},
+		{
+			"id": "17",
+			"attraction": "Casa Loma",
+			"location": "1 Austin Terrace, Toronto, ON M5R 1X8",
+			"latitude": "43.6780371",
+			"longitude": "-79.4116326",
+			"website": "http://www.casaloma.ca/",
+			"wiki": "https://en.wikipedia.org/wiki/Casa_Loma",
+			"photo": "casa_loma.jpg",
+			"synopsis": "Casa Loma (Spanish for \"Hill House\") is a Gothic Revival style mansion and garden in midtown Toronto, Ontario, Canada, that is now a historic house museum and landmark. It was constructed from 1911 to 1914 as a residence for financier Sir Henry Pellatt. Due to its unique architectural character in Toronto, Casa Loma has been a popular filming location for movies and television. It is also a popular venue for wedding ceremonies, and Casa Loma can be rented in the evenings after the museum closes to the public. "
+		},
+		{
+			"id": "18",
+			"attraction": "Art Gallery of Ontario",
+			"location": "317 Dundas St W, Toronto, ON M5T 1G4",
+			"latitude": "43.6536066",
+			"longitude": "-79.394701",
+			"website": "http://www.ago.ca/",
+			"wiki": "https://en.wikipedia.org/wiki/Art_Gallery_of_Ontario",
+			"photo": "ago.jpg",
+			"synopsis": "The AGO building complex takes up 45,000 square metres (480,000 sq ft) of physical space, making it one of the largest art museums in North America. In addition to exhibition spaces, the museum also houses an artist-in-residence office and studio, dining facilities, event spaces, gift shop, library and archives, theatre and lecture hall, research centre, and a workshop.  The permanent collection includes over 98,000 works spanning the first century to the present day."
+		}
+	]
+}
