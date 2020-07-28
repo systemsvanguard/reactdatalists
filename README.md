@@ -1,7 +1,7 @@
-# Movie Quest - Movie Search
+# React Data Lists
 A React.js sample app to demonstrate consuming and displaying data in lists from various sources, including an array, a JSON file, and an API.  Built with React.js, Reach Router, W3.css CSS framework, JSON, Axios, RESTful API, HTML 5, FontAwesome 5 icons, Google Fonts, JavaScript, CSS3, and more. 
 
-Live **Site Demo** ~ [React Data Lists Demo](http://moviequest.ryanhunter.ca/) 
+Live **Site Demo** ~ [React Data Lists Demo](http://reactdatalists.ryanhunter.ca/) 
 
 ![React Data Lists Demo 1](http://ryanhunter.ca/images/portfolio/reactdatalists01.png)
 
